@@ -1,0 +1,22 @@
+/*
+Theme Name:  Yariel Gordillo Portfolio
+Theme URI:   https://yourwebsite.com
+Author:      Yariel Gordillo
+Author URI:  https://yourwebsite.com
+Description: WooCommerce & WordPress Systems Developer portfolio. Modern, clean, employer-focused. No page-builder required.
+Version:     1.0.0
+Requires at least: 6.0
+Tested up to:      6.7
+Requires PHP:      8.0
+License:     GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: yg-portfolio
+Tags:        portfolio, custom-colors, custom-menu, full-width-template, responsive-layout, one-page
+
+Screenshot instructions:
+  Add a file named screenshot.png (1200×900 px) to this theme root.
+  It appears in Appearance > Themes as the preview image.
+  Use a browser screenshot of the live site at 1200×900 and crop/export as PNG.
+*/
+
+/* All styles live in assets/css/main.css — enqueued via functions.php */
