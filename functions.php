@@ -13,7 +13,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 require_once get_template_directory() . '/inc/customizer.php';
 require_once get_template_directory() . '/inc/cpt-portfolio.php';
 require_once get_template_directory() . '/inc/cpt-skills.php';
-require_once get_template_directory() . '/inc/seeder.php';
 
 // ── THEME SETUP ────────────────────────────────────────────────────────────────
 
